@@ -1,0 +1,23 @@
+.main {
+    background-color: #06234d;
+    padding-top: 20px;
+}
+.carousel-wrapper {
+    max-width: 800px;
+    height: 90vh;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.carousel-img {
+    width: 100%;
+    object-fit: contain !important;
+    background-position: center;
+    position: relative;
+}
+.info {
+    position: absolute;
+    bottom: 20px;
+    left: 10px; 
+    color: #fff;
+    text-shadow: 2px 2px #000;
+}
