@@ -10,9 +10,7 @@
 }
 .carousel-img {
     width: 100%;
-    object-fit: contain !important;
-    background-position: center;
-    position: relative;
+    object-fit: contain;
 }
 .info {
     position: absolute;
